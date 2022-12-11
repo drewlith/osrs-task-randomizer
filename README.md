@@ -8,15 +8,3 @@ Currently, it only supports starting from a fresh level 3 account. Simply do wha
 Download: [Rando-Man Mode.zip](https://github.com/drewlith/Rando-Man-Mode/files/8544223/Rando-Man.Mode.zip)
 
 ![image](https://user-images.githubusercontent.com/74074951/164861210-822174c5-fb9a-4b24-bac2-4762153251b3.png)
-
-If Rando Man Mode gets popular, I will update the app to have more features and quality of life!
-
-Hope you enjoy and let me know if you'd like to see any new features or find any bugs! I am @drewlith on social media drewlith#0001 on Discord.
-
-Support the developer!
-
-Twitch: https://twitch.tv/drewlith
-
-Twitter: https://twitter.com/drewlith
-
-Donate: https://www.paypal.com/donate/?hosted_button_id=S2Z2ZUVXKUEW2
