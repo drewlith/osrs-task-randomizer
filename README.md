@@ -1,4 +1,6 @@
 # Rando-Man-Mode
+NOTE: No longer in development. If I ever come back to this it'll probably be implemented as a RuneLite plug-in.
+
 Rando-Man Mode is an application for oldschool Runescape to allow players to play an unofficial game mode called Rando Man Mode that assigns random tasks to the player.
 
 Currently, it only supports starting from a fresh level 3 account. Simply do what the application tells you and then click "Done", then repeat ad infinitum. Due to the random nature, players will likely be met with many difficult challenges. Efficiency goes out the window in this game mode! Every Rando Man adventure will be 100% unique.
